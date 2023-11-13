@@ -1,13 +1,15 @@
 ### Olá! Sou Richard Miguel Ferro
 
-- 🔭 Trabalhei Bastante Com Análise de Dados, Mas Gosto Muito de Desenvolver Aplicações que Trabalhem Com Prompt
-- 🌱 Atualmente Estou Estudando JavaScrip e C#
-- 😄 ele/dele
+## Com O Que Trabalho?
+- Trabalho Principalmente Desenvolndo Aplicações de Prompt Usando NodeJS e C++
+- Trabalhei Bastate Com Análises de Dados Usando Python + Pandas
+- Sei o Básico de Desenvolvimento Web JavaScript
+- Já Trabalhei um Pouco com C#
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaos-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaos-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kaos-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Kaos-Cpp" height="50" width="60" src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png">
 </div>
 
 ##
