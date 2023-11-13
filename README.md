@@ -4,10 +4,15 @@
 - Trabalho Principalmente Desenvolndo Aplicações de Prompt Usando NodeJS e C++
 - Trabalhei Bastate Com Análises de Dados Usando Python + Pandas
 - Sei o Básico de Desenvolvimento Web JavaScript
-- Já Trabalhei um Pouco com C#
+- Já Trabalhei um Pouco com C# e C
+
+  ## Experiência
+  - 7 Meses Python
+  - 4 Meses NodeJS
+  - 1 Mês de C++
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kaos-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kaos-Js" height="50" width="60" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
   <img align="center" alt="Kaos-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kaos-Cpp" height="50" width="60" src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png">
 </div>
