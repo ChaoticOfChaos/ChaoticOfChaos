@@ -1,7 +1,7 @@
 ### Olá! Sou Richard Miguel Ferro
 
 ## Com O Que Trabalho?
-- Trabalho Principalmente Desenvolndo Aplicações de Prompt Usando NodeJS e C++
+- Trabalho Principalmente Desenvolvendo Aplicações de Prompt Usando NodeJS e C++
 - Trabalhei Bastate Com Análises de Dados Usando Python + Pandas
 - Sei o Básico de Desenvolvimento Web JavaScript
 - Já Trabalhei um Pouco com C# e C
