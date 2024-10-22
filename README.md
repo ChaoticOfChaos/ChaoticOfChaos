@@ -1,18 +1,14 @@
 ### Olá! Sou Richard Miguel Ferro
 
 ## Com O Que Trabalho?
-- Aspirante a Hacker/Pentester
-- Trabalho Principalmente Desenvolvendo Aplicações de Prompt Usando Python e C++
-- Trabalhei Bastate Com Análises de Dados Usando Python + Pandas
-- Sei o Básico de Desenvolvimento Web JavaScript
-- Já Trabalhei um Pouco com C# e C
-- Atualmente Estudando Rust e TypeScript
+- Estudante de Hacking Red Team
+- Trabalho Principalmente Desenvolvendo Pequenas Ferramentas em C++ e Python
 
   ## Experiências
   - Python: 03/03/2023 - Avançado
   - NodeJS: 06/07/2023 - Mediano
   - JavaScript: 06/07/2023 - Mediano
-  - C++: 28/09/2023 - Básico/Mediano
+  - C++: 28/09/2023 - Mediano
   - Rust: 06/02/2024 - Iniciante
   - TypeScript: 26/03/2024 - Iniciante
   - HTML: 06/07/2023 - Báscio
