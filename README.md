@@ -3,6 +3,7 @@
 Com O Que Trabalho?
 - Estudante de Hacking Red Team
 - Trabalho Principalmente Desenvolvendo Pequenas Ferramentas em C++ e Python
+- Em Busca de Um Emprego
 
 ##
 
