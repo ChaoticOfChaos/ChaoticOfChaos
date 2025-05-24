@@ -1,68 +1,38 @@
-<h2 align="left">Olá 👋! Meu Nome é Richard, Sou Estudante de Hacking Red Team</h2>
+<h2 align="left">Olá 👋! Meu Nome é Richard, Sou Estudante de CyberSecurity</h2>
 
-Com O Que Trabalho?
-- Estudante de Hacking Red Team
-- Trabalho Principalmente Desenvolvendo Pequenas Ferramentas em C++ e Python
-- Em Busca de Um Emprego
+###
 
-##
+<h6 align="left">Com O Que Trabalho?<br><br>- Estudante de Hacking Red Team<br>-Trabalho Principalmente Desenvolvendo Pequenas Ferramentas em C++ e Python<br>- Em Busca de Um Emprego</h6>
 
-Experiências
-- Python: 03/03/2023 - Avançado
-- NodeJS: 06/07/2023 - Mediano
-- JavaScript: 06/07/2023 - Mediano
-- C++: 28/09/2023 - Mediano
-- Rust: 06/02/2024 - Iniciante
-- TypeScript: 26/03/2024 - Iniciante
-- HTML: 06/07/2023 - Báscio
-- Java: 08/03/2024 - Iniciante
+###
+
+<h6 align="left">Python: 03/03/2023 - Avançado<br>C++: 28/09/2023 - Mediano<br>Hacking: 14/02/2024 - Mediano</h6>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaoticofchaos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaoticofchaos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaoticOfChaos&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaoticOfChaos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaoticOfChaos&theme=github-dark&area=false&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ChaoticOfChaos&theme=darkhub" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/chaoticofchaos/count.svg?"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/ab/43/b8/ab43b8a12fc38e2e4772802aaa428483.png"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
+  <img src="https://profile-counter.glitch.me/ChaoticOfChaos/count.svg?"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://instagram.com/chaoticofchaos_kaos/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://instagram.com/chaoticofchaos_kaos/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
 </div>
-
-###
-
-<br clear="both">
 
 ###
