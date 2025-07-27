@@ -19,12 +19,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ChaoticOfChaos/count.svg?"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -34,7 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
+  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="30" alt="redhat logo"  />
 </div>
 
 ###
